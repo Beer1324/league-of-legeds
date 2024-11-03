@@ -61,86 +61,21 @@
     <footer>
         <p>&copy; 2024 League of Legends Hub</p>
     </footer>
-</body>
-</html>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
 
-header {
-    background-color: #0033cc;
+<
+
     color: white;
     padding: 20px;
     text-align: center;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
 
-nav ul li {
     display: inline;
     margin: 0 15px;
 }
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
-}
 
-section {
-    margin: 20px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 
-h2 {
-    color: #0033cc;
-}
-
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #0033cc;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-label {
-    margin: 10px 0 5px;
-}
-
-input, textarea {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-button {
-    background-color: #0033cc;
-    color: white;
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
 }
 <section id="champion-profiles">
     <h2>Champion Profiles</h2>
