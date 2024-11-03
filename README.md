@@ -119,3 +119,24 @@
     </div>
     <!-- Add more highlights as needed -->
 </section>
+<section id="champion-profiles">
+    <h2>Champion Profiles</h2>
+    <div class="champion">
+        <h3>Aatrox</h3>
+        <img src="path/to/aatrox-image.jpg" alt="Aatrox" />
+        <p><strong>Role:</strong> Fighter</p>
+        <p><strong>Abilities:</strong> Aatrox wields a massive sword and has abilities that deal damage and heal him.</p>
+        <p><strong>Lore:</strong> Aatrox is a fallen god who seeks to find a way to resurrect his fellow Darkin.</p>
+        <p><strong>Tips:</strong> Focus on using his abilities to sustain in fights and outplay your opponents.</p>
+    </div>
+    
+    <div class="champion">
+        <h3>Ahri</h3>
+        <img src="path/to/ahri-image.jpg" alt="Ahri" />
+        <p><strong>Role:</strong> Mage/Assassin</p>
+        <p><strong>Abilities:</strong> Ahri uses her magical foxfire and charms enemies to deal damage and escape from danger.</p>
+        <p><strong>Lore:</strong> Ahri is a vastaya who seeks to learn more about her human side while protecting her home.</p>
+        <p><strong>Tips:</strong> Utilize her mobility to dodge skill shots and engage with her charm for successful picks.</p>
+    </div>
+    <!-- Add more champion profiles as needed -->
+</section>
