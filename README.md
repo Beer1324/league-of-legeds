@@ -170,3 +170,33 @@
     </div>
     <!-- Add more champion profiles as needed -->
 </section>
+<section id="news">
+    <h2>Latest News</h2>
+    <div class="news-item" onclick="toggleNews('patch-notes')">
+        <h3>Patch Notes 12.22</h3>
+        <p>Click to read more...</p>
+    </div>
+    <div id="patch-notes" class="news-content" style="display: none;">
+        <p>Details about the latest patch changes and updates...</p>
+    </div>
+    
+    <div class="news-item" onclick="toggleNews('upcoming-events')">
+        <h3>Upcoming Events</h3>
+        <p>Click to read more...</p>
+    </div>
+    <div id="upcoming-events" class="news-content" style="display: none;">
+        <p>Information about the next in-game events and competitions...</p>
+    </div>
+</section>
+
+<script>
+    function toggleNews(id) {
+        const content = document.getElementById(id);
+        if (content.style.display === "none") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
+        }
+    }
+</script>
+
